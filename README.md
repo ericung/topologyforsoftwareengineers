@@ -1,0 +1,1 @@
+![Definitions](Resources\definitions.png)
