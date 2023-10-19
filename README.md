@@ -20,3 +20,10 @@ Given a sample of html documents with different levels of nested queries of dept
 
 **Conclusion**\
 The resulting tests for each document shows that at the base level, the html document renders slower than if it has no div tags than if it had more than one. This could be do to many explanations and leaves much room to explore and hypothesis given the different amount of topologies available for an html document.
+
+-----
+
+# References
+
+[Topology](https://math.ucr.edu/~res/math205B-2018/Munkres%20-%20Topology.pdf)
+[Domain Theory](https://en.wikipedia.org/wiki/Domain_theory)
