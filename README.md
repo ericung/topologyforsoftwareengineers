@@ -25,5 +25,5 @@ The resulting tests for each document shows that at the base level, the html doc
 
 # References
 
-[Topology](https://math.ucr.edu/~res/math205B-2018/Munkres%20-%20Topology.pdf)
+[Topology](https://math.ucr.edu/~res/math205B-2018/Munkres%20-%20Topology.pdf)\
 [Domain Theory](https://en.wikipedia.org/wiki/Domain_theory)
