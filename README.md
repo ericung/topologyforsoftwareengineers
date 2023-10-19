@@ -18,7 +18,8 @@ Given a sample of html documents with different levels of nested queries of dept
 [Test 3 Nest](Resources/test01nest03.html)\
 [Test 4 Nest](Resources/test01nest04.html)\
 [Test 5 Nest](Resources/test01nest05.html)\
-[Test 8 Nest](Resources/test01nest08.html)
+[Test 8 Nest](Resources/test01nest08.html)\
+[Test 24 Nest](Resources/test01nest24.html)
 
 **Conclusion**\
 The resulting tests for each document shows that at the base level, the html document renders slower than if it has no div tags than if it had more than one. This could be do to many explanations and leaves much room to explore and hypothesis given the different amount of topologies available for an html document.
