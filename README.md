@@ -28,6 +28,6 @@ The resulting tests for each document shows that at the base level, the html doc
 
 # References
 
-[Introduction to the Theory of Computation](https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation)
+[Introduction to the Theory of Computation](https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation)\
 [Topology](https://math.ucr.edu/~res/math205B-2018/Munkres%20-%20Topology.pdf)\
 [Domain Theory](https://en.wikipedia.org/wiki/Domain_theory)
