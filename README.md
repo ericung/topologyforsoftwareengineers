@@ -1,8 +1,18 @@
+# Topology For Software Engineers
+
+### 1. Topology For Software Engineers
+
 ![01TopologyForSoftwareEngineers](Resources/01TopologyForSoftwareEngineers.jpg)
+
+### 2. The Basis Of HTML
+
 ![02TheBasisOfHTML](Resources/02TheBasisOfHTML.jpg)
+
+### 3. Neighborhood Of Topology
+
 ![03NeighborhoodOfTopology](Resources/03NeighborhoodOfTopology.jpg)
 
-## A Small Experiment with Huge Documents of Nested Levels
+### A Small Experiment with Huge Documents of Nested Levels
 Performance of various layouts of an html page are given knowing that there is theory behind topology would provide insight into the optimal performance of an html page especially when the size of the document can be massive.
 
 **Hypothesis and Objective**\
