@@ -12,15 +12,16 @@
 
 ![03NeighborhoodOfTopology](Resources/03NeighborhoodOfTopology.jpg)
 
-### A Small Experiment with Huge Documents of Nested Levels
+### 4. A Small Experiment with Huge Documents of Nested Levels
+
 Performance of various layouts of an html page are given knowing that there is theory behind topology would provide insight into the optimal performance of an html page especially when the size of the document can be massive.
 
-**Hypothesis and Objective**\
+### 5. Hypothesis and Objective
 Given a sample of html documents with different levels of nested queries of depth zero, one, two, three, four, five, and eight find the relation of the performance of the loading the page. There are five levels of nests in the five html samples and the performance is being measured. The objective is to show how the topology of the website on a large html document has on performance.
 
 ![Results of the Chart](Resources/test01chart.png)
 
-**Testing Documents**\
+### 6. Testing Documents
 [Test Base](Resources/test01nest0b.html)\
 [Test 1 Nest](Resources/test01nest01.html)\
 [Test 2 Nest](Resources/test01nest02.html)\
@@ -32,7 +33,8 @@ Given a sample of html documents with different levels of nested queries of dept
 
 [test.csv](Resources/test.csv)
 
-**Conclusion**\
+### 7. Conclusion
+
 The resulting tests for each document shows that at the base level, the html document renders slower than if it has no div tags than if it had more than one. On the other hand, when the nests are of 8 or more, performance dramatically decreases. This could be do to many explanations and leaves much room to explore and hypothesis given the different amount of topologies available for an html document.
 
 -----
