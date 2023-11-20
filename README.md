@@ -1,7 +1,6 @@
-![Definitions](Resources/definitions.png)
-![01TopologyForSoftwareEngineers](Resources/01TopologyForSoftwareEngineers.png)
-![02TheBasisOfHTML](Resources/02TheBasisOfHTML.png)
-![03NeighborhoodOfTopology](Resources/03NeighborhoodOfTopology.png)
+![01TopologyForSoftwareEngineers](Resources/01TopologyForSoftwareEngineers.jpg)
+![02TheBasisOfHTML](Resources/02TheBasisOfHTML.jpg)
+![03NeighborhoodOfTopology](Resources/03NeighborhoodOfTopology.jpg)
 
 ## A Small Experiment with Huge Documents of Nested Levels
 Performance of various layouts of an html page are given knowing that there is theory behind topology would provide insight into the optimal performance of an html page especially when the size of the document can be massive.
