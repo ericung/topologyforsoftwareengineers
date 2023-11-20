@@ -1,7 +1,7 @@
 ![Definitions](Resources/definitions.png)
-![Base of HTML](Resources/baseofhtml.png)
-![Base of HTML](Resources/questionofcircuits.png)
-![Base of HTML](Resources/neighborhood.png)
+![01TopologyForSoftwareEngineers](Resources/01TopologyForSoftwareEngineers.png)
+![02TheBasisOfHTML](Resources/02TheBasisOfHTML.png)
+![03NeighborhoodOfTopology](Resources/03NeighborhoodOfTopology.png)
 
 ## A Small Experiment with Huge Documents of Nested Levels
 Performance of various layouts of an html page are given knowing that there is theory behind topology would provide insight into the optimal performance of an html page especially when the size of the document can be massive.
@@ -28,6 +28,8 @@ The resulting tests for each document shows that at the base level, the html doc
 
 # References
 
-[Introduction to the Theory of Computation](https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation)\
-[Topology](https://math.ucr.edu/~res/math205B-2018/Munkres%20-%20Topology.pdf)\
-[Domain Theory](https://en.wikipedia.org/wiki/Domain_theory)
+Sipser, M. (2012). Introduction to the theory of computation (3rd ed.). Cengage Learning.
+
+Munkres, J. R. (2000). Topology (2nd ed.). Prentice Hall.
+
+V. Stoltenberg-Hansen; I. Lindstrom; E. R. Griffor (1994). Mathematical Theory of Domains. Cambridge University Press. ISBN 0-521-38344-7.

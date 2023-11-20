@@ -4,7 +4,7 @@ authors:
 - family-names: "Eric"
   given-names: "Ung"
   orcid: "https://orcid.org/0009-0008-6122-4557"
-title: "Topology For Software Engineers"
+title: "Topology Of Footwork"
 version: 1.0.0
 doi:
 date-released: 2023-11-01
@@ -18,8 +18,8 @@ preferred-citation:
   doi: ""
   month: 1
   start: 1 # First page number
-  end: 6 # Last page number
-  title: "Topology For Software Engineers"
+  end: 7 # Last page number
+  title: "Topology Of Footwork"
   issue: 1
   volume: 1
   year: 2023
